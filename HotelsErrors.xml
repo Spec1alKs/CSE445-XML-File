@@ -4,7 +4,7 @@
     <Hotel Rating="4.2">
         <Phone Number="480-968-8885"/>
         <Phone Number="800-937-8461"/>
-        <n>Westin</n>
+        <Name>Westin</Name>
         <Address NearestAirport="Sky Harbor">
             <Number>11</Number>
             <Street>E 7th St</Street>
@@ -15,7 +15,7 @@
     </Hotel>
     <Hotel Rating="4.5">
         <Phone Number="480-947-5400"/>
-        <n>Marriott Tempe</n>
+        <Name>Marriott Tempe</Name>
         <Address>
             <Number>2101</Number>
             <Street>E Broadway Rd</Street>
@@ -25,7 +25,7 @@
         </Address>
     </Hotel>
     <Hotel Rating="4.3">
-        <n>Hampton Inn Phoenix-Tempe</n>
+        <Name>Hampton Inn Phoenix-Tempe</Name>
         <Address NearestAirport="Sky Harbor">
             <Number>4234</Number>
             <Street>S 48th St</Street>
@@ -36,7 +36,7 @@
     </Hotel>
     <Hotel Rating="4.1">
         <Phone Number="480-897-7900"/>
-        <n>Sheraton Grand Phoenix</n>
+        <Name>Sheraton Grand Phoenix</Name>
         <Address NearestAirport="Sky Harbor">
             <Number>340</Number>
             <Street>N 3rd St</Street>
@@ -47,8 +47,8 @@
     <Hotel>
         <Phone Number="480-921-5500"/>
         <Phone Number="877-474-2489"/>
-        <n>Hilton Phoenix Resort</n>
-        <n>Hilton Resort Phoenix</n>
+        <Name>Hilton Phoenix Resort</Name>
+        <Name>Hilton Resort Phoenix</Name>
         <Address NearestAirport="Sky Harbor">
             <Number>10400</Number>
             <Street>E Via Linda</Street>
