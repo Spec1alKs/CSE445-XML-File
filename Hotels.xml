@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
     <Hotel Rating="4.2">
-        <Phone Number="480-968-8885"/>
         <Phone Number="800-937-8461"/>
+        <Phone Number="480-968-8885"/>
         <Name>Westin</Name>
         <Address NearestAirport="Sky Harbor">
             <Number>11</Number>
-            <Street>E 7th St</Street>
+            <Street>E.7th St</Street>
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
